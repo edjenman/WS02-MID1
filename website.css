@@ -1,0 +1,85 @@
+@font-face{
+font-family: myFont;
+src:url(WillRobinson.ttf)
+}
+
+body{
+font-family: 'Saira', sans-serif;
+background-color:#53E1A4;
+}
+ header{
+border-radius:40px;
+     background-color:#77A3E8;
+     padding: center;
+     text-align:center;
+ }
+ 
+ h1{
+font-size:100px;
+color:#E7E7E6;
+font-family: myFont;
+   }
+h2{
+
+font-family: myFont;
+color:#1455EA;
+}
+ 
+ header img{
+     border-radius:174px;
+     width: 300px;
+     border: 12px solid #336CEBD48;
+   }
+   
+   
+.content{
+max-width:1200px;
+margin: 0 auto;
+padding: 0 20px;
+color:black; 
+text-align: justify;
+font-size:25px;    
+ }
+
+img{
+display: block;
+margin-left:  auto;
+margin-right:  auto;
+border-radius:40px;
+
+ }
+ p.caption{
+     
+ }
+     font-size:16px;
+     color:blue;
+     font-style:italic;
+    
+  {
+ 
+  ul{
+      list-style:none;
+      padding:none;
+      margin:none;
+      
+  }
+  
+  a{
+      color:gray;
+      text-decoration:none;
+      
+  }
+  
+  
+ footer{
+background-color:#F4E2E8;
+}
+
+footer ul{
+text-align: center;
+}
+
+footer ul li{
+display: inline-block;
+margin: 0 5px;
+}
